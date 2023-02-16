@@ -1,1 +1,2 @@
-# Welcome to Kontakt home
+# Welcome to Kontakt home 
+:smile:
